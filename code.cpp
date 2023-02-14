@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    int x;
+    int i,x;
     cin>>x;
     int ar[x],count=0;
     while(x>0)
