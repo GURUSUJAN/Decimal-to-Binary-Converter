@@ -3,9 +3,9 @@
 using namespace std;
 int main()
 {
-    int a,x,n,i=0;
-    cin>>a>>x>>n;
-    int ar[x],arr[x],count=0;
+    int x;
+    cin>>x;
+    int ar[x],count=0;
     while(x>0)
     {
      ar[count]=x%2;
